@@ -1,3 +1,3 @@
 def call() {
-  echo "Hello world"
+  echo "We have completed Jenkins revision"
 }
